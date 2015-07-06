@@ -1,0 +1,31 @@
+{
+  "name": "gulptest",
+  "version": "0.0.1",
+  "description": "this is project of gulp test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishimuuuuuu",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-cached": "^1.1.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csslint": "^0.1.5",
+    "gulp-frontnote": "^1.0.1",
+    "gulp-htmlhint": "^0.1.1",
+    "gulp-jade": "^1.0.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-livereload": "^3.8.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.3",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4",
+    "gulp-webserver": "^0.9.1"
+  }
+}
